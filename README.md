@@ -17,7 +17,7 @@ cd f1.cli
 
 ---
 
-## Install F1 CLI
+## Install F1 SH
 
 Run the installer:
 
