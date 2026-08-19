@@ -6,6 +6,79 @@ The project provides Formula 1 data directly inside the terminal with commands f
 
 ---
 
+# Installation
+
+## Clone the repository
+
+```bash
+git clone <repository-url>
+cd f1.cli
+```
+
+---
+
+## Install F1 CLI
+
+Run the installer:
+
+```bash
+chmod +x install.sh
+./install.sh
+```
+
+The installer will:
+- Make all shell scripts executable
+- Create the global `f1` command
+- Link the CLI to your local project folder
+
+After installation:
+
+```bash
+f1
+```
+
+The F1 CLI terminal will start.
+
+---
+
+## Requirements
+
+You need:
+
+### Node.js
+
+Required for running the API commands.
+
+Check installation:
+
+```bash
+node --version
+```
+
+### Bash
+
+Required for the CLI interface.
+
+Check installation:
+
+```bash
+bash --version
+```
+
+---
+
+## Uninstall
+
+Remove the global command:
+
+```bash
+sudo rm /usr/local/bin/f1
+```
+
+The project folder can then be deleted normally.
+
+---
+
 # Technologies Used
 
 ## Node.js
