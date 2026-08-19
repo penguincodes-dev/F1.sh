@@ -1,4 +1,4 @@
-# F1 CLI
+# F1 SH
 
 A terminal-based Formula 1 information tool built with **Node.js** and **Bash**.
 
