@@ -12,7 +12,7 @@ The project provides Formula 1 data directly inside the terminal with commands f
 
 ```bash
 git clone <repository-url>
-cd f1.cli
+cd F1.cli
 ```
 
 ---
