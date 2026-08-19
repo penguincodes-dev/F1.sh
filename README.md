@@ -379,9 +379,7 @@ These files were generated/refactored with AI assistance and manually adjusted d
 # Future Improvements
 
 - Add API caching
-- Add historical seasons
-- Add driver career statistics
+- Add driver comparisons
 - Add team comparisons
 - Add more charts
-- Add driver/team images
 - Improve error handling
