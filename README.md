@@ -358,6 +358,7 @@ commands/schedule.sh
 ```
 
 These files were generated/refactored with AI assistance and manually adjusted during development.
+(proportion 60% AI -  40% Human)
 
 ---
 
