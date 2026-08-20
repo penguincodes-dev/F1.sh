@@ -340,24 +340,27 @@ Shows the complete season calendar.
 
 ---
 
-# Files Vibecoded
+# AI Assistance
 
-The following files were created or heavily assisted by AI ("vibecoded"):
+AI was used during development for:
+Code formatting
+Refactoring
+Debugging
+Terminal output formatting
+README formatting
 
 ```
-api.js
-
-
-commands/driver.js
-commands/team.js
-commands/schedule.js
-
-commands/driver.sh
-commands/team.sh 
-commands/schedule.sh
+api.js  
+  
+commands/driver.js  
+commands/team.js 
+  
+commands/driver.sh  
+commands/team.sh  
 ```
 
-These files were generated/refactored with AI assistance and manually adjusted during development.
+The project logic, features, structure, testing, and final implementation decisions were done by me.
+
 (proportion 60% AI -  40% Human)
 
 ---
