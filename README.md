@@ -361,7 +361,6 @@ commands/team.sh
 
 The project logic, features, structure, testing, and final implementation decisions were done by me.
 
-(proportion 60% AI -  40% Human)
 
 ---
 
