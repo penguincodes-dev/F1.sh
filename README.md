@@ -337,31 +337,6 @@ schedule
 ```
 
 Shows the complete season calendar.
-
----
-
-# AI Assistance
-
-AI was used during development for:
-Code formatting
-Refactoring
-Debugging
-Terminal output formatting
-README formatting
-
-```
-api.js  
-  
-commands/driver.js  
-commands/team.js 
-  
-commands/driver.sh  
-commands/team.sh  
-```
-
-The project logic, features, structure, testing, and final implementation decisions were done by me.
-
-
 ---
 
 # Current Features
@@ -377,12 +352,3 @@ The project logic, features, structure, testing, and final implementation decisi
 ✅ Wikipedia descriptions  
 ✅ Terminal formatting and colors  
 
----
-
-# Future Improvements
-
-- Add API caching
-- Add driver comparisons
-- Add team comparisons
-- Add more charts
-- Improve error handling
